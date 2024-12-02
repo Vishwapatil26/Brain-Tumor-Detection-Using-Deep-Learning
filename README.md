@@ -5,6 +5,7 @@ Features:
   - Deep Learning Model: Trained CNN for binary classification (Cancerous vs. Non-Cancerous).
   - Web Application: Interactive UI to upload MRI images and view predictions.
   - Real-Time Predictions: Outputs the classification result with confidence scores.
+
 Tech Stack:
   - TensorFlow/Keras: For model training and evaluation.
   - Streamlit: To create a simple web interface.
